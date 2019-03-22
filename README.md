@@ -4,4 +4,4 @@
 <br/>
 <br/>
 
-> Declarative scrolling for config and animation.
+> Easy and simple to use React Native declarative scrolling for config and animation. Supporting both iOS and Android. Free and made possible along with costly maintenance and updates by [Lue Hang](https://www.facebook.com/lue.hang) (the author).

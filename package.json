@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "name": "react-native-scrolling",
   "description": "Easy and simple to use React Native declarative scrolling for config and animation. Supporting both iOS and Android. Free and made possible along with costly maintenance and updates by [Lue Hang](https://www.facebook.com/lue.hang) (the author).",
   "keywords": [
@@ -16,7 +16,7 @@
     "Lue Hang",
     "luehang"
   ],
-  "homepage": "https://github.com/Luehang/react-native-scrolling",
+  "homepage": "https://luehangs.site/lue_hang/projects/react-native-scrolling",
   "author": {
     "name": "Lue Hang",
     "email": "lue_hang@hotmail.com",
